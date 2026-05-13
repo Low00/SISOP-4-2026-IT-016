@@ -1,0 +1,21 @@
+[2026/05/13 15:42:37,  0] source3/smbd/server.c:2119(main)
+  smbd version 4.23.6-Ubuntu-4.23.6+dfsg-1ubuntu2 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2025
+[2026/05/13 15:49:31,  0] source3/smbd/server.c:2119(main)
+  smbd version 4.23.6-Ubuntu-4.23.6+dfsg-1ubuntu2 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2025
+[2026/05/13 15:50:50,  0] source3/nmbd/nmbd_workgroupdb.c:279(dump_workgroups)
+  dump_workgroups()
+   dump workgroup on subnet      172.18.0.2: netmask=    255.255.0.0:
+  	WORKGROUP(1) current master browser = 0BCF73F6DBAF
+  		0BCF73F6DBAF 40849a03 (LibraryIT Server)
+[2026/05/13 15:52:07,  0] source3/nmbd/nmbd_workgroupdb.c:279(dump_workgroups)
+  dump_workgroups()
+   dump workgroup on subnet      172.18.0.2: netmask=    255.255.0.0:
+  	WORKGROUP(1) current master browser = 0BCF73F6DBAF
+  		0BCF73F6DBAF 40849a03 (LibraryIT Server)
+[2026/05/13 15:53:44,  0] source3/nmbd/nmbd_workgroupdb.c:279(dump_workgroups)
+  dump_workgroups()
+   dump workgroup on subnet      172.18.0.2: netmask=    255.255.0.0:
+  	WORKGROUP(1) current master browser = 0BCF73F6DBAF
+  		0BCF73F6DBAF 40849a03 (LibraryIT Server)
