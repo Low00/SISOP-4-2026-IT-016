@@ -167,11 +167,12 @@ gcc kenz_rescue.c -o kenz_rescue `pkg-config fuse3 --cflags --libs`
 ```
 
 ### Run
-Misal folder source bernama source dan mount point bernama mnt:
+Mmunt point bernama mnt:
 ```bash
-mkdir mnt
-./kenz_rescue source mnt
+mkdir -p mnt
+./kenz_rescue amba_files mnt
 ```
+(dir amba_files didapat dari download link flashdisk dengan gdown lalu unzip)
 
 ### Unmount
 
